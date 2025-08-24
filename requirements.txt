@@ -1,3 +1,3 @@
-flask
-telethon
-sqlite3-binary
+flask==2.3.2
+telethon==1.34.0
+gunicorn==20.1.0
