@@ -9,8 +9,8 @@ import sqlite3
 from datetime import datetime
 
 # Telegram API credentials
-api_id = 12345       # your api_id
-api_hash = "your_api_hash"
+api_id = 21016721       # your api_id
+api_hash = "d2ebe21eada95d9044d8b399c1bd0c8b"
 session_name = "my_session"
 
 # Flask app
